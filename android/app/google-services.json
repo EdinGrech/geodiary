@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "973681884601",
+    "firebase_url": "https://geodiary-de048-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "geodiary-de048",
+    "storage_bucket": "geodiary-de048.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973681884601:android:2d939c40f07ed52da24a68",
+        "android_client_info": {
+          "package_name": "com.nid3.geodiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwobtPB0JiNFLdq-2-TXfXsOok4CiSJ1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
