@@ -4,21 +4,21 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0' # Update based on your Flutter version
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
   intl: ^0.20.2 # For date formatting, use latest
   google_fonts: ^6.2.0 # Optional, like MealApp, use latest
+  google_fonts: ^6.2.0
 
   cupertino_icons: ^1.0.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^5.0.0
 
 flutter:
   uses-material-design: true
-  # assets:
-  #   - assets/images/ # Add if you have local assets
