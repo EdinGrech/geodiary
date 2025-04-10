@@ -9,8 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.20.2 # For date formatting, use latest
-  google_fonts: ^6.2.0 # Optional, like MealApp, use latest
+
+  firebase_core: ^3.13.0
+  firebase_database: ^11.3.5
+  firebase_analytics: ^11.4.5
   google_fonts: ^6.2.0
 
   cupertino_icons: ^1.0.6
